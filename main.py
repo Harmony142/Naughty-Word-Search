@@ -11,7 +11,9 @@ def open_file():
 
 
 def initialize_list():
-    naughty_words = ['shit', 'piss', 'fuck', 'cunt', 'cocksucker', 'motherfucker', 'tits']
+    naughty_words = ['shit', 'piss', 'fuck', 'cunt', 'cocksucker', 'motherfucker', 'tits',
+                     'fart', 'masturbate', 'fisting', 'asshole', 'fingering', 'oral sex',
+                     'anal sex', 'dick', 'cock', 'pussy', 'cum']
     return naughty_words
 
 
